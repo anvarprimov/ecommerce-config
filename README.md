@@ -1,2 +1,3 @@
 # ecommerce-config
 Configuration for ecommerce project
+# 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
